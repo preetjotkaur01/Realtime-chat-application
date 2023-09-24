@@ -7,7 +7,7 @@
         origin:"*",
         methods:["GET","POST"]
     }
- });
+ }); 
  // 8000 is the port
  const users = {};
  //users is an array for different users that connect to the server
